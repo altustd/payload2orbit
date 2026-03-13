@@ -1,0 +1,4 @@
+Add agency grouping (e.g., flag SpaceX/Starlink, NASA, CNSA, etc.)
+Breakdown by orbit class (LEO vs GEO vs MEO)
+Compare count vs mass in recent years (highlight the smallsat boom)
+Export the plot as PNG/PDF for your portfolio
